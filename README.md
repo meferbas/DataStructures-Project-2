@@ -14,3 +14,5 @@ A data structures project using the c++ in the MinGW compiler.
 
 -> Queue Structure
 
+-> Linked List
+
