@@ -2,7 +2,7 @@
 
 A data structures project using the c++ in the MinGW compiler.
 
---Topics In The Project--
+--Topics--
 
 -> AVL Tree
 
