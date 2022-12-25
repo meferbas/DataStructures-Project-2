@@ -1,0 +1,2 @@
+program derlendikten 1-2 saniye sonra balık görüntüsü gelmektedir.
+başka bir txt dosyasını denemek isterseniz eğer dosyaoku hpp dosyasından file dosyasının adını değiştirebilirsiniz.
