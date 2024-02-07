@@ -17,5 +17,5 @@ With 'mingw32-make' command can compile the codes.
 
 -> Linked List
 
-** If you would like to see my first data structures project, you can [click here!](https://github.com/meferbas/DataStructures-Project)
+- If you would like to see my first data structures project, **[click here!](https://github.com/meferbas/DataStructures-Project)**
 
